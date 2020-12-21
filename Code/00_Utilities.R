@@ -17,6 +17,9 @@ require(magrittr)
 require(car)
 require(stringr)
 require(dplyr)
+require(nricens)
+require(RColorBrewer)
+require(ModelMetrics)
 
 
 #' Logistic Regression Modeling
